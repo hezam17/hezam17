@@ -79,10 +79,10 @@ I'm a software developer with a solid background in **web and mobile app develop
 
 ### 🌐 Connect With Me
 
-* 🌍 [Website (Coming Soon)](https://hammilha.com)
-* 💼 LinkedIn: [linkedin.com/in/hezam17](#)
-* 📫 Email: [hezam@example.com](mailto:hezam@example.com)
-* 🧠 Twitter / X: [@hezam17](#)
+* 🌍 [Website(https://hezamali.netlify.app/)
+* 💼 LinkedIn: [linkedin.com/in/hezam-abdulrahman](#)
+* 📫 Email: [hezam1404@gmail.com](mailto:hezam1404@gmail.com)
+* 🧠 Twitter / X: [@hezam1998](#)
 
 ---
 
