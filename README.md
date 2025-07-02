@@ -6,7 +6,6 @@
 
 
 🚀 **Founder Hammilha.com | Full Stack Developer | Mobile Engineer**  
-📍 Saudi Arabia · Remote
 
 ---
 
