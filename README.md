@@ -5,7 +5,7 @@
 </p>
 
 
-🚀 **Founder Hammilha.com | Full Stack Developer | Mobile Engineer**  
+🚀 **Founder Hammilha.com | Full Stack Developer |  Mobile App Development**  
 
 ---
 
