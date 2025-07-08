@@ -98,7 +98,7 @@ I'm a software developer with a solid background in **web and mobile app develop
   <a href="mailto:hezam1404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/hezam-abdulrahman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/hezam1998" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://hezamali.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://portfoliohezo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 
